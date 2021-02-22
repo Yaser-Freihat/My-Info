@@ -1,7 +1,5 @@
 # My Info
 
-# ![Image description](https://raw.githubusercontent.com/Yaser-Freihat/Yaser-Freihat/main/Rainbow%20Line.gif)
-
 Hello, 
 
 My Name Is : Yaser
