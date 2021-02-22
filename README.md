@@ -10,4 +10,11 @@ I'm From : Palestine
 
 Discord : Yaser Freihat#5449
 
+# Skills : 
+
+JS : %59
+
+PYTHON : 
+
+
 # ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
