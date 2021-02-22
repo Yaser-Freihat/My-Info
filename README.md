@@ -10,6 +10,14 @@ I'm From : Palestine
 
 Discord : Yaser Freihat#5449
 
+# Hacking Info 
+
+Hacking Name : Palescorpion
+
+Hacking Email : ._.
+
+Hacking Pass : ._.
+
 # Learning : 
 
 JS 
