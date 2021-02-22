@@ -10,8 +10,6 @@ I'm From : Palestine
 
 Discord : Yaser Freihat#5449
 
-https://raw.githubusercontent.com/Yaser-Freihat/Yaser-Freihat/branch/Rainbow%20Line.gif
-
 # Hacking Info 
 
 Hacking Name : Palescorpion
