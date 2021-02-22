@@ -10,7 +10,7 @@ I'm From : Palestine
 
 Discord : Yaser Freihat#5449
 
-![Image description](https://github.com/Yaser-Freihat/Yaser-Freihat/blob/main/Rainbow%20Line.gif)
+![Image description](https://raw.githubusercontent.com/Yaser-Freihat/Yaser-Freihat/main/Rainbow%20Line.gif)
 
 # Hacking Info 
 
